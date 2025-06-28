@@ -8,7 +8,7 @@ A customized version of Flappy Bird built with Pygame. This version includes a s
 * Menu with options:
 
   * Pipe Mode: "Consistent" or "Dynamic"
-  * Sound FX toggle (score increase, collision)
+  * Sound FX toggle (score, collision)
   * Background music toggle
 * Score tracking with persistent high score stored in `highscore.txt`
 * Pipes can appear in different combinations (solo or paired)
