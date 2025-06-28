@@ -1,4 +1,4 @@
-# Flappy Bird – Settings Edition
+# Flappy Bird
 
 A customized version of Flappy Bird built with Pygame. This version includes a settings menu, adjustable gameplay modes, sound toggles, and persistent high score tracking. It's not a polished studio build, just a solid and fun personal take on a classic game.
 
